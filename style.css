@@ -1,3 +1,11 @@
+header {
+ border-bottom: solid 3px #ca9c11 ;
+ padding: 10px;
+ font-sizd: 22px;
+ color:white;
+}
+
+
 body{
  blackground-color:#ff99ff}
 h1{ color:#ff66ff }
